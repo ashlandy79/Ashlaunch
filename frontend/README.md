@@ -1,0 +1,1 @@
+该项目是一个Web3.0的launchpad平台，名为AshLaunch，拥有四个板块，分别对应四个路由，AirDrop,Farming,Staking,Sales
